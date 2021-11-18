@@ -68,7 +68,7 @@
 ### - Sound processing
 ### - Health sector
 ### - Financial
-
+### - High-frequency trading
 </div>
 <br/>
 <div align="center">
